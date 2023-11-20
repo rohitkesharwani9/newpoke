@@ -56,7 +56,7 @@ export function ScreenMore({
         <div role="presentation" className="mv2 bt border3" />
         <div>
           <a
-            href="https://github.com/wavebeem/pkmn.help/blob/HEAD/CHANGELOG.md"
+            href="https://github.com/rohitkesharwani9/newpoke/blob/HEAD/CHANGELOG.md"
             className="br1 underline fg-link focus-outline"
           >
             {t("banners.updateReady.whatsNew")}
@@ -195,7 +195,7 @@ export function ScreenMore({
             components={{
               changelog: (
                 <a
-                  href="https://github.com/wavebeem/pkmn.help/blob/HEAD/CHANGELOG.md"
+                  href="https://github.com/rohitkesharwani9/newpoke/blob/HEAD/CHANGELOG.md"
                   className="br1 underline fg-link focus-outline"
                 />
               ),
