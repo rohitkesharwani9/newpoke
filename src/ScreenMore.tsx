@@ -66,9 +66,7 @@ export function ScreenMore({
 
       <h2 className="lh-title f4">{t("more.contact.heading")}</h2>
 
-      <p>
-          Find <a href="/pokemon-type-calculator">Pokemon Type Chart</a>
-        </p>
+      
 
       <p>
         <Trans
