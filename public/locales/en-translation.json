@@ -56,7 +56,7 @@
       "button": "Reset",
       "description": "Reset to the default Pokédex"
     },
-    "filename": "pkmn.help type coverage.csv",
+    "filename": "pokemon.coderobo.org type coverage.csv",
     "status": {
       "imported": "Imported {{ n }} Pokémon forms from “{{ file }}”",
       "exported": "Exported default Pokémon forms",
