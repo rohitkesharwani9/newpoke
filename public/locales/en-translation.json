@@ -226,7 +226,7 @@
       "heading": "Need any support?",
       "serviceWorker": {
         "description": "Resolve app-related issues by simply pressing this button.",
-        "button": "Reset The App"
+        "button": "Reset"
       }
     },
     "privacy": {
