@@ -41,7 +41,7 @@ ${JSON.stringify(localStorage)}
 
   return (
     <div className="sans-serif ph4 content-narrow f4 center fg2 lh-copy">
-      <h1>pkmn.help: Error</h1>
+      <h1>pokemon.coderobo.org: Error</h1>
       <p>
         Please send an email to{" "}
         <a href="mailto:pkmn@wavebeem.com" className="fg-link">
@@ -66,7 +66,7 @@ ${JSON.stringify(localStorage)}
       <p>
         <b aria-hidden="true">&larr;</b>{" "}
         <a href="/" className="f3 fg-link">
-          Back to pkmn.help
+          Back to pokemon.coderobo.org
         </a>
       </p>
     </div>
